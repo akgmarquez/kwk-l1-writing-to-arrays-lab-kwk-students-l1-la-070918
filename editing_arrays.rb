@@ -5,8 +5,14 @@ rainbow_colors = [
 ]
 
 def change_rainbow_colors
-  puts rai
-  # Write a solution that corrects the three colors in rainbow_colors, then returns the corrected array
+ rainbow_colors[0] = "red"
+puts rainbow_colors[0]
+rainbow_colors[1] = "light_red"
+puts rainbow_colors[1]
+rainbow_colors[2]="light_yellow"
+puts rainbow_colors[2]
+
+
 end
 
 def add_colors
