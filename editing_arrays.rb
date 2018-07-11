@@ -16,8 +16,8 @@ change_rainbow_colors
 
 
 def add_colors
-rainbow_colors.push "green"
-rainbow_colors "blue"
-puts rainbow_colors
+  rainbow_colors.push "green"
+  rainbow_colors "blue"
+  puts rainbow_colors
 end
 add_colors
